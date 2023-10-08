@@ -17,7 +17,7 @@ Meu nome é Denis Iorran Tavares Aceno, mas pode me chamar de Iorran. Sou **Dese
 </a>
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Iorran19&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
