@@ -1,8 +1,8 @@
 
 # :vulcan_salute: Olá, Eu sou o Iorran! 
 
-![](https://komarev.com/ghpvc/?username=denisiorranp&color=000000)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=iorran19p&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/denisiorran?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=Iorran19&color=000000)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Iorran19p&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/Iorran19?label=Follow&style=social)
 
 <img src="" width="250px" align="right" >
 <p align="left" style="text-align: justify">
