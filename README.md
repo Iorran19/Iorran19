@@ -10,7 +10,7 @@
 Meu nome é Denis Iorran Tavares Aceno, mas pode me chamar de Iorran. Sou **Desenvolvedor Web Full-Stack** em formação, atualmente estudo na [@cubosacademy](https://cubos.academy/)
 
 [![Instagram](https://img.shields.io/badge/denis_iorran_seid-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jess.coder/)
-[![Linkedin](https://img.shields.io/badge/jessica%20medeiros%20pocarli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicamedeirospocarli/) 
+[![Linkedin](https://img.shields.io/badge/denis%20iorran%20tavares%20aceno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicamedeirospocarli/) 
 <a href="mailto:fizzdabahia58@gmail.com">
   <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 </a>
