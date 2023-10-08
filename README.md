@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=denisiorranp&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=iorran19p&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/denisiorran?label=Follow&style=social)
 
-<img src="https://i.imgur.com/FGXFzCt.jpg" width="250px" align="right" >
+<img src="" width="250px" align="right" >
 <p align="left" style="text-align: justify">
   
 Meu nome é Denis Iorran Tavares Aceno, mas pode me chamar de Iorran. Sou **Desenvolvedor Web Full-Stack** em formação, atualmente estudo na [@cubosacademy](https://cubos.academy/)
